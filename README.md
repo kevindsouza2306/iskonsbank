@@ -1,7 +1,7 @@
 # Session Passwords Using Grids and Colors for Banking Application 
 It is based on Website: www.ijetae.com (ISSN 2250-2459, ISO 9001:2008 Certified Journal, Volume 3, Issue 5, May 2013)
 
-A. Pair-based Authentication scheme:
+# A. Pair-based Authentication scheme:
 
 During registration user submits his password. Minimum length of the password is 8 and it can be called as secret pass. The secret pass should contain even number of characters. Session passwords are generated based on this secret pass. During the login phase, when the user enters his username an interface consisting of a grid is displayed. The grid is of size 6 x 6 and it consists of alphabets and numbers. These are randomly placed on the grid and the interface changes every time.
 
@@ -27,7 +27,7 @@ Figure 3 shows the login interface. User has to enter the password depending upo
 
 The first letter in the pair is used to select the row and the second letter is used to select the column. The intersection letter is part of the session password. This is repeated for all pairs of secret pass. Fig 3 shows that V is the intersection symbol for the pair “NI”. The password entered by the user is verified by the server to authenticate the user. If the password is correct, the user is allowed to enter in to the system. The grid size can be increased to include special characters in the password.
 
-B. Hybrid Textual Authentication Scheme:
+# B. Hybrid Textual Authentication Scheme:
 
 During registration, user should rate colors as shown in figure 4. The User should rate colors from 1 to 8 and he can remember it as “wvibgyor”. Same rating can be given to different colors. During the login phase, when the user enters his username an interface is displayed based on the colors selected by the user. The login interface consists of grid of size 8×8. This grid contains digits 1-8 placed randomly in grid cells. The interface also contains strips of colors as shown in figure 4. The color grid consists of 4 pairs of colors. Each pair of color represents the row and the column of the grid
 
