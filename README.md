@@ -1,5 +1,4 @@
-# iskonsbank
-Session Passwords Using Grids and Colors for Banking Application 
+# Session Passwords Using Grids and Colors for Banking Application 
 It is based on Website: www.ijetae.com (ISSN 2250-2459, ISO 9001:2008 Certified Journal, Volume 3, Issue 5, May 2013)
 
 A. Pair-based Authentication scheme:
