@@ -53,6 +53,5 @@ During registration, user should rate colors as shown in figure 4. The User shou
                       Figure 5: Login interface
                       
  Figure 5 shows the login interface having the color grid and number grid of 8 x 8 having numbers 1 to 8 randomly placed in the grid. Depending on the ratings given to colors, we get the session password. As discussed above, the first color of every pair in color grid represents row and second represents column of the number grid. The number in the intersection of the row and column of the grid is part of the session password. Consider the figure 4 ratings and figure 5 login interfaces for demonstration. The first pair has red and yellow colors. The yellow color rating is 1 and red color rating is 2. So the first letter of session password is 3rd row and 4th column intersecting element i.e 4. The same method is followed for other pairs of colors. For figure 5 the password is “4524”. Instead of digits, alphabets can be used. For every login, both the number grid and the color grid get randomizes so the session password changes for every session.
- 
- THE PAPER ON WHICH IT IS BASED ON IS ALSO UPLOADED FOR REFRENCE
- 
+
+# You will have to change the add your userame and password in the email.php file to get the forgot password email
