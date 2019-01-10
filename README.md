@@ -1,4 +1,4 @@
-# Session Password using Grids and Colours for Online Banking Application
+# Session Password using Grids and Colours for Online Banking Application <img src="https://img.shields.io/badge/License-MIT-green.svg"  alt="License"/> <img src="https://img.shields.io/badge/Kevin-D%27souza-blue.svg"  alt="License"/> 
 
 Session Password using Grids and Colours for Online Banking System in PHP & MySQL.
 
